@@ -2,7 +2,7 @@ import discord
 import sys
 from discord.ext import commands
 intents=discord.Intents.all()
-bot = commands.Bot(command_prefix = "ctkp!", intents=intents)
+bot = commands.Bot(intents=intents)
 Token = sys.argv[0]
 
 @bot.event
