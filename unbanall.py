@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 intents=discord.Intents.all()
 bot = commands.Bot(command_prefix = "ctkp!", intents=intents)
-Token = 'OTcxMDQzNDQwNTI1NzI5ODI1.GFXlIT.xv1J1be7gdZh0nelWRaaJ-tLAu7JbzJt3yxZSg'
+Token = ''
 
 @bot.event
 async def on_ready():
