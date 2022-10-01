@@ -4,5 +4,5 @@ DiscordでNukeされた時用
 ```bash
 このファイル.py Botトークン 全員BAN解除するサーバー BAN解除上限(適当に十万とか)
 ```
-#あとがき
+# あとがき
 これPrivateにとりあえずしたけどPublicでいいよね
